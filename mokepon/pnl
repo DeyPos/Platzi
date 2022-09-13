@@ -1,0 +1,3 @@
+#!/bin/sh
+
+"/c/Program Files/Google/Chrome Dev/Application/chrome.exe"  'C:\Users\HP\OneDrive - A&S ASESORES DE SEGUROS LTDA\Escritorio\Programar\mokepon\mokepon.html' $1
